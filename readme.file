@@ -1,0 +1,26 @@
+#  AMAZON-page clone
+
+This is simple HTML and CSS project that recreat an AMAZON style page.It display banner, navigation menu and products categories with responsive layouts.
+
+---
+
+## Features 
+
+- Navigation bar with saerch and links
+- Banner section
+- product categories
+- style layout 
+
+--- 
+
+## Technologies Used 
+
+- **HTML**     for structure
+- **CSS**     for styling and layout
+
+---
+
+## How to Run 
+1. Clone this repository:
+```bash
+git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git

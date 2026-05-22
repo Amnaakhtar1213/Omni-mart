@@ -6,7 +6,7 @@ This is a simple AMAZON first page clone.It display banner, navigation menu and 
 
 ## Features 🚀
 
-- Navigation bar with saerch and links
+- Navigation bar with search and links
 - Banner section
 - product categories
 - style layout 

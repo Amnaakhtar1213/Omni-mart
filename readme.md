@@ -1,3 +1,11 @@
+
+
+## ⚠️ DISCLAIMER !!!!!
+
+This is a student project, not affiliated with Amazon.
+
+------------------------------
+
 #  AMAZON-page clone 🤡
 
 This is a simple AMAZON first page clone.It display banner, navigation menu and products categories with responsive layouts.
@@ -20,11 +28,7 @@ This is a simple AMAZON first page clone.It display banner, navigation menu and 
 
 ---
 
-## DISCLAIMER !!!!!
 
-This is a student project, not affiliated with Amazon.
-
-------------------------------
 
 ## How to Run ✨
 

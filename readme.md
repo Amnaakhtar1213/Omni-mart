@@ -44,10 +44,10 @@ Here's tale a quick look:
 ## LIVE DEMO 🌐
 
 Here's take quick test yourself:
-- [Click here for clone live-demo](https://amnaakhtar1213.github.io/amazon-page-clone/)
+- [Click here for clone live-demo](https://amnaakhtar1213.github.io/Omni-mart/)
 
 -----------------------------
 
 ## Clone this repository:
 ```bash
-git clone https://github.com/Amnaakhtar1213/amazon-page-clone.git
+git clone https://github.com/Amnaakhtar1213/Omni-mart.git
